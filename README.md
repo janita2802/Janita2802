@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**janita2802/Janita2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image (2)](https://user-images.githubusercontent.com/103368361/162623922-f4671fc8-2acf-4f6e-a9dc-8c1b4ee2bd4a.png)
 
-Here are some ideas to get you started:
+- 😊 I’m Janita Phatak
+- 🎓 I’m have pursued master's in Informational Technology at Patkar-Varde college, Mumbai. 
+      I have completed my graduation in Comuter Science in 2020 from Patkar-Varde college.
+- ❤️ I love programming.
+- 🔭 I’m currently working on full stack projects
+- 🌱 I’m currently learning advanced JavaScript, Node.js, advanced java with data structures.
+- 👀 I’m interested in Full stack Web Development, software development.
+- ⚡ Technologies - HTML, CSS, JavaScript, Java, Python, React.js.
+- 💬 Ask me about 
+- 📫 How to reach me - phatakjanita@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
